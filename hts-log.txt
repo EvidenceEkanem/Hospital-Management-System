@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2019 14:50:04 at http://thememinister.com/health/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://thememinister.com/health/ -O1 "C:\My Web Sites\HOSPITAL SITE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:55:14	Error: 	"Not Found" (404) at link thememinister.com/health/lab-list (from thememinister.com/health/add-emp.html)
+14:55:16	Error: 	"Not Found" (404) at link thememinister.com/health/assets/dist/img/ico/apple-touch-icon-57-precomposed.png (from thememinister.com/health/forget_password.html)
+14:55:16	Error: 	"Not Found" (404) at link thememinister.com/health/assets/dist/img/ico/apple-touch-icon-72-precomposed.png (from thememinister.com/health/forget_password.html)
+14:55:16	Error: 	"Not Found" (404) at link thememinister.com/health/assets/dist/img/ico/apple-touch-icon-114-precomposed.png (from thememinister.com/health/forget_password.html)
+14:55:16	Error: 	"Not Found" (404) at link thememinister.com/health/assets/dist/img/ico/apple-touch-icon-144-precomposed.png (from thememinister.com/health/forget_password.html)
+14:55:40	Error: 	"Not Found" (404) at link thememinister.com/health/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.eot (from thememinister.com/health/assets/plugins/NotificationStyles/css/demo.css)
+14:55:40	Error: 	"Not Found" (404) at link thememinister.com/health/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.eot? (from thememinister.com/health/assets/plugins/NotificationStyles/css/demo.css)
+14:55:40	Error: 	"Not Found" (404) at link thememinister.com/health/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.woff (from thememinister.com/health/assets/plugins/NotificationStyles/css/demo.css)
+14:55:40	Error: 	"Not Found" (404) at link thememinister.com/health/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.ttf (from thememinister.com/health/assets/plugins/NotificationStyles/css/demo.css)
+14:55:40	Error: 	"Not Found" (404) at link thememinister.com/health/assets/plugins/NotificationStyles/fonts/codropsicons/codropsicons.svg (from thememinister.com/health/assets/plugins/NotificationStyles/css/demo.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 1 seconds : 288 links scanned, 277 files written (14196283 bytes overall) [7154020 bytes received at 19817 bytes/sec], 9529034 bytes transferred using HTTP compression in 176 files, ratio 24%, 13.0 requests per connection
+(10 errors, 0 warnings, 0 messages)
