@@ -8,7 +8,7 @@
             <div class="header-wrap">
                 <div class="header-top d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="#home"><img src="{{ URL::to('login/img/logo.png') }}" alt=""></a>
+                        <a href="#home"><img src="{{ URL::to('loginFolder/img/logo.png') }}" alt=""></a>
                     </div>
                     <div class="main-menubar d-flex align-items-center">
                         <nav class="hide">
@@ -111,7 +111,7 @@
 </div>
 </div>
 <div class="col-lg-6 d-flex align-self-end img-right">
-    <img class="img-fluid" src="{{  URL::to('login/img/header-img.png') }}" alt="">
+    <img class="img-fluid" src="{{  URL::to('loginFolder/img/header-img.png') }}" alt="">
 </div>
 </div>
 </div>
@@ -203,7 +203,7 @@
             <div class="container-fluid">
                 <div class="row d-flex justify-content-end align-items-center">
                     <div class="col-lg-6 col-md-12 about-left no-padding">
-                        <img class="img-fluid" src="{{ URL::to('login/img/about-img.jpg') }}" alt="">
+                        <img class="img-fluid" src="{{ URL::to('loginFolder/img/about-img.jpg') }}" alt="">
                     </div>
                     <div class="col-lg-6 col-md-12 about-right no-padding">
                         <h1>Book an <br> Appoinment</h1>
@@ -253,7 +253,7 @@
                             <div class="content">
                                 <a href="#" target="_blank">
                                   <div class="content-overlay"></div>
-                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('login/img/c1.jpg') }}" alt="">
+                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('loginFolder/img/c1.jpg') }}" alt="">
                                       <div class="content-details fadeIn-bottom">
                                           <h4>Andy Florence</h4>
                                           <p>
@@ -269,7 +269,7 @@
                             <div class="content">
                                 <a href="#" target="_blank">
                                   <div class="content-overlay"></div>
-                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('login/img/c2.jpg') }}" alt="">
+                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('loginFolder/img/c2.jpg') }}" alt="">
                                       <div class="content-details fadeIn-bottom">
                                           <h4>Andy Florence</h4>
                                           <p>
@@ -285,7 +285,7 @@
                             <div class="content">
                                 <a href="#" target="_blank">
                                   <div class="content-overlay"></div>
-                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('login/img/c3.jpg') }}" alt="">
+                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('loginFolder/img/c3.jpg') }}" alt="">
                                       <div class="content-details fadeIn-bottom">
                                           <h4>Andy Florence</h4>
                                           <p>
@@ -301,7 +301,7 @@
                             <div class="content">
                                 <a href="#" target="_blank">
                                   <div class="content-overlay"></div>
-                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('login/img/c4.jpg') }}" alt="">
+                                       <img class="content-image img-fluid d-block mx-auto" src="{{ URL::to('loginFolder/img/c4.jpg') }}" alt="">
                                       <div class="content-details fadeIn-bottom">
                                           <h4>Andy Florence</h4>
                                           <p>
@@ -357,7 +357,7 @@
                 <div class="row">
                     <div class="single-blog col-lg-4 col-md-4">
 
-                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('login/img/b1.jpg') }}" alt="">
+                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('loginFolder/img/b1.jpg') }}" alt="">
                         <h4>
                             <a href="#">Portable Fashion for young women</a>
                         </h4>
@@ -367,7 +367,7 @@
                         </p>
                         <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                             <div>
-                                <img class="img-fluid" src="{{ URL::to('login/img/user.png') }}" alt="">
+                                <img class="img-fluid" src="{{ URL::to('loginFolder/img/user.png') }}" alt="">
                                 <a href="#"><span>Mark Wiens</span></a>
                             </div>
                             <div class="meta">
@@ -378,7 +378,7 @@
                         </div>
                     </div>
                     <div class="single-blog col-lg-4 col-md-4">
-                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('login/img/b2.jpg') }}" alt="">
+                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('loginFolder/img/b2.jpg') }}" alt="">
                         <h4>
                             <a href="#">Summer ware are coming</a>
                         </h4>
@@ -388,7 +388,7 @@
                         </p>
                         <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                             <div>
-                                <img class="img-fluid" src="{{ URL::to('login/img/user.png') }}" alt="">
+                                <img class="img-fluid" src="{{ URL::to('loginFolder/img/user.png') }}" alt="">
                                 <a href="#"><span>Mark Wiens</span></a>
                             </div>
                             <div class="meta">
@@ -399,7 +399,7 @@
                         </div>
                     </div>
                     <div class="single-blog col-lg-4 col-md-4">
-                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('login/img/b3.jpg') }}" alt="">
+                        <img class="f-img img-fluid mx-auto" src="{{ URL::to('loginFolder/img/b3.jpg') }}" alt="">
                         <h4>
                             <a href="#">Summer ware are coming</a>
                         </h4>
@@ -408,7 +408,7 @@
                         </p>
                         <div class="bottom d-flex justify-content-between align-items-center flex-wrap">
                             <div>
-                                <img class="img-fluid" src="{{ URL::to('login/img/user.png') }}" alt="">
+                                <img class="img-fluid" src="{{ URL::to('loginFolder/img/user.png') }}" alt="">
                                 <a href="#"><span>Mark Wiens</span></a>
                             </div>
                             <div class="meta">
